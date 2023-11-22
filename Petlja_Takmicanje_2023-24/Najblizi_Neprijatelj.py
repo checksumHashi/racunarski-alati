@@ -7,6 +7,8 @@
 # такође и не мора садржати број 2, тада би требало вратити 0.
 
 # resenje uzima 103 (maksimum) poena
+# mislim da zadak moze da bude jos brzi ako se umesto linije 17 koristi binarno pretrazivanje
+# al nisam toliki doktor
 
 # isto kao i "def func(s):", pogledaj "python type checking" za objasnjenje
 def func(length:int, cords: list) -> int:
