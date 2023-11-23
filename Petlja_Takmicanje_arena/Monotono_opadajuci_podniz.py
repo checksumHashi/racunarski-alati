@@ -22,5 +22,5 @@ def meow(arr: list) -> int:
 
     return NAJduz
 
-#print(meow([int(x) for x in input().split()]))
-print(meow( [2,2,2,2,1] ))
+print(meow([int(x) for x in input().split()]))
+#print(meow( [2,2,2,2,1] ))

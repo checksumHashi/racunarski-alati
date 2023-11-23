@@ -1,4 +1,4 @@
-# lk - licna karta
+# nije zavrseno
 br_lk = input()
 jmbg = input()
 pol = input()

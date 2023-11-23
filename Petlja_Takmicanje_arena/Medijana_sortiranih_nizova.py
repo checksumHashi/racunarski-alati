@@ -1,4 +1,4 @@
-# 40 poena
+# 45 poena
 from statistics import median
 list1 = [int(x) for x in input().split()]
 list2 = [int(x) for x in input().split()]
